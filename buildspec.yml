@@ -12,19 +12,19 @@ phases:
 
     commands:
 
-      - dotnet restore PCLab1.csproj
+      - dotnet restore webapp.csproj
 
   build:
 
     commands:
 
-      - dotnet build PCLab1.csproj
+      - dotnet build webapp.csproj
 
   post_build:
 
     commands:
 
-      - dotnet publish -c Release -o ./app/ PCLab1.csproj
+      - dotnet publish -c Release -o ./app/ webapp.csproj
 
 artifacts:
 

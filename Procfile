@@ -1,1 +1,1 @@
-web: dotnet ./app/PCLab1.dll
+web: dotnet ./app/webapp.dll
