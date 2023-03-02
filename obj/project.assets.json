@@ -13,18 +13,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\webapp.csproj",
+      "projectUniqueName": "c:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\webapp.csproj",
       "projectName": "webapp",
-      "projectPath": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\webapp.csproj",
+      "projectPath": "c:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\webapp.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\",
+      "outputPath": "c:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,7 +32,7 @@
       },
       "frameworks": {
         "net6.0": {
-          "targetAlias": "net7.0",
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -44,7 +44,7 @@
     },
     "frameworks": {
       "net6.0": {
-        "targetAlias": "net7.0",
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
