@@ -1,9 +1,0 @@
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\webapp.csproj.AssemblyReference.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\webapp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\webapp.csproj.CoreCompileInputs.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\webapp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\webapp.RazorAssemblyInfo.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\webapp.RazorAssemblyInfo.cs
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\webapp.dll
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\refint\webapp.dll
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net7.0\webapp.pdb
