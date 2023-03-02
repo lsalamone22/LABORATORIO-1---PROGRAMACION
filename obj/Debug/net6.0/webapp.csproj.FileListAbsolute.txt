@@ -24,14 +24,3 @@ C:\Users\HP\PracticaLab1\webapp\obj\Debug\net6.0\refint\webapp.dll
 C:\Users\HP\PracticaLab1\webapp\obj\Debug\net6.0\webapp.pdb
 C:\Users\HP\PracticaLab1\webapp\obj\Debug\net6.0\webapp.genruntimeconfig.cache
 C:\Users\HP\PracticaLab1\webapp\obj\Debug\net6.0\ref\webapp.dll
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.csproj.AssemblyReference.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.AssemblyInfoInputs.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.AssemblyInfo.cs
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.csproj.CoreCompileInputs.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.RazorAssemblyInfo.cache
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.RazorAssemblyInfo.cs
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.dll
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\refint\webapp.dll
-C:\Users\HP\GIT\LABORATORIO-1---PROGRAMACION\obj\Debug\net6.0\webapp.pdb
