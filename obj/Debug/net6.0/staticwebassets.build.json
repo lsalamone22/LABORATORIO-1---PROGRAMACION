@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dE5vPq8wNUZlDFvfT4pI+JIEUgWUfD7NBOXKeTnA9as=",
+  "Hash": "WcnqfY1G4GhshDTQw1T4EYK9Hii1mAdN4pgMyyk1iaU=",
   "Source": "webapp",
   "BasePath": "_content/webapp",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net7.0\\scopedcss\\bundle\\webapp.styles.css",
+      "Identity": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webapp.styles.css",
       "SourceId": "webapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/webapp",
       "RelativePath": "webapp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net7.0\\scopedcss\\bundle\\webapp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net6.0\\scopedcss\\bundle\\webapp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\webapp.bundle.scp.css",
+      "Identity": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webapp.bundle.scp.css",
       "SourceId": "webapp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/webapp",
       "RelativePath": "webapp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\webapp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\webapp.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\HP\\GIT\\LABORATORIO-1---PROGRAMACION\\wwwroot\\css\\site.css",
